@@ -1,6 +1,6 @@
 # Notes: TechCart Premium lab
 
-**Live URL (Vercel):** _Deploy this completed project to Vercel and paste the live URL here._
+**Live URL (Vercel):** https://lab-tech-shop-sigma.vercel.app/
 
 ## 1. Route and storage choice
 
